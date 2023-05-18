@@ -49,7 +49,7 @@ function updateTask(taskId) {
 
 exports.addTodo = addTodo;
 exports.removeTask = removeTask;
-// exports.editTodo = editTodo;
-// exports.tasks = tasks;
-// exports.clearAllCompleted = clearAllCompleted;
-// exports.updateTask = updateTask;
+ exports.editTodo = editTodo;
+ exports.tasks = tasks;
+ exports.clearAllCompleted = clearAllCompleted;
+ exports.updateTask = updateTask;
