@@ -6,7 +6,7 @@ function addTodo(task) {
 }
 
 function removeTask(task) {
-  todos = todos.filter(todo => todo.id !== task.id);
+  todos = todos.filter((todo) => todo.id !== task.id);
   todos.forEach((todo, i) => {
     todo.id = i;
   });
@@ -49,7 +49,7 @@ function updateTask(taskId) {
 
 exports.addTodo = addTodo;
 exports.removeTask = removeTask;
- exports.editTodo = editTodo;
- exports.tasks = tasks;
- exports.clearAllCompleted = clearAllCompleted;
- exports.updateTask = updateTask;
+exports.editTodo = editTodo;
+exports.tasks = tasks;
+exports.clearAllCompleted = clearAllCompleted;
+exports.updateTask = updateTask;
