@@ -149,19 +149,27 @@ https://github.com/AliShahSafdari/Testing-To-Do-list
 
 ## :busts_in_silhouette: Authors <a name="authors"></a>
 
-:bust_in_silhouette: **Paul Tesfaye**
+:bust_in_silhouette: **Hussein Hashi**
 
-- GitHub: [paul-tes](https://github.com/Paul-tes)
-- LinkedIn: [paul](https://www.linkedin.com/in/paul-tesfaye-687820215/)
+- GitHub: [paul-tes](https://github.com/husush23)
+- LinkedIn: [paul](https://www.linkedin.com/in/hussein-kadare-8aa1361a8/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :busts_in_silhouette: Authors <a name="authors"></a>
 
-:bust_in_silhouette: **Alishah Mohammad Kazim**
+:bust_in_silhouette: **Nahid Raihan**
 
-- GitHub: [alishaSafdari](https://github.com/AliShahSafdari)
-- LinkedIn: [alishah](https://www.linkedin.com/in/ali-shah-safdari-010541215/)
+- GitHub: [alishaSafdari](https://github.com/Nahid1911)
+- LinkedIn: [alishah](https://www.linkedin.com/in/nahidraihan/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+:bust_in_silhouette: **Tony**
+
+- GitHub: [alishaSafdari](https://github.com/Nahid1911)
+- LinkedIn: [alishah](https://www.linkedin.com/in/nahidraihan/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- FUTURE FEATURES -->
 
