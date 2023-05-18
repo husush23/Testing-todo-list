@@ -151,22 +151,22 @@ https://github.com/AliShahSafdari/Testing-To-Do-list
 
 :bust_in_silhouette: **Hussein Hashi**
 
-- GitHub: [paul-tes](https://github.com/husush23)
-- LinkedIn: [paul](https://www.linkedin.com/in/hussein-kadare-8aa1361a8/)
+- GitHub:[Hussein](https://github.com/husush23)
+- LinkedIn: [Hussein](https://www.linkedin.com/in/hussein-kadare-8aa1361a8/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :busts_in_silhouette: Authors <a name="authors"></a>
 
 :bust_in_silhouette: **Nahid Raihan**
 
-- GitHub: [alishaSafdari](https://github.com/Nahid1911)
-- LinkedIn: [alishah](https://www.linkedin.com/in/nahidraihan/)
+- GitHub: [Nahid1911](https://github.com/Nahid1911)
+- LinkedIn: [Nahid](https://www.linkedin.com/in/nahidraihan/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-:bust_in_silhouette: **Tony**
+:bust_in_silhouette: **Antoine**
 
-- GitHub: [alishaSafdari](https://github.com/Nahid1911)
-- LinkedIn: [alishah](https://www.linkedin.com/in/nahidraihan/)
+- GitHub: [Antoine1128](https://github.com/ANTOINE1128)
+- LinkedIn: [Antoine Makdessy](https://www.linkedin.com/in/nahidraihan/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
