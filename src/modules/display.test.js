@@ -23,7 +23,7 @@ describe('Add tasks functions', () => {
         task: 'hi',
         status: false,
         id: 2,
-      })
+      }),
     ).not.toBe([]);
   });
   test('When the removes the task it should remove', () => {
@@ -32,7 +32,7 @@ describe('Add tasks functions', () => {
         task: 'Delete item',
         id: 3,
         status: false,
-      })
+      }),
     ).not.toStrictEqual([]);
   });
 
@@ -51,7 +51,7 @@ describe('Add tasks functions', () => {
       desc: 'task one',
       complete: false,
     };
-    const task = editTodo(editedTask);
+    editTodo(editedTask);
     expect(tasks[0].desc).toBe('task one');
   });
 

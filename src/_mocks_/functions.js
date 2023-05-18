@@ -6,7 +6,7 @@ function addTodo(task) {
 }
 
 function removeTask(task) {
-  todos = todos.filter(todo => todo.id !== task.id);
+  todos = todos.filter((todo) => todo.id !== task.id);
   todos.forEach((todo, i) => {
     todo.id = i;
   });
@@ -31,18 +31,18 @@ const tasks = [
 ];
 
 function editTodo(task) {
-  const {id, desc} = task;
-  const editedTask = tasks.find(task => task.id === id);
+  const { id, desc } = task;
+  const editedTask = tasks.find((task) => task.id === id);
   editedTask.desc = desc;
 }
 
 function clearAllCompleted() {
-  const newTasks = tasks.filter(task => !task.complete);
+  const newTasks = tasks.filter((task) => !task.complete);
   return newTasks;
 }
 
 function updateTask(taskId) {
-  const task = tasks.find(task => task.id === taskId);
+  const task = tasks.find((task) => task.id === taskId);
   if (task) task.complete = true;
   return task;
 }
